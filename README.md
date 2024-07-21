@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maahizone" target="blank"><img src="https://img.shields.io/twitter/follow/maahizone?logo=twitter&style=for-the-badge" alt="maahizone" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development and DSA in Java**
 
 - 💬 Ask me about **Reactjs ,Expressjs, nodejs**
 
