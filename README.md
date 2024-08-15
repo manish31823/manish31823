@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish31823&" alt="manish31823" /></p>
 
+<br>
+<img src="./balls.svg" width="350" alt="Description of image">
