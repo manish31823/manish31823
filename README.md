@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and DSA in Java**
 
-- 💬 Ask me about **Reactjs ,Expressjs, nodejs**
+- 💬 Ask me about ** Javascript ,Reactjs ,Expressjs, nodejs**
 
 - 📫 How to reach me **chaudhary.manish76543@gmail.com**
 
