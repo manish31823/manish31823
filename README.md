@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **chaudhary.manish76543@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Manish%20Chaudhary/Downloads/Manish-chaudhary-resume%20(1)_compressed%20(1).pdf](file:///C:/Users/Manish%20Chaudhary/Downloads/Manish-chaudhary-resume%20(1)_compressed%20(1).pdf)
+- 📄 Know about my experiences [file:///C:/Users/Manish%20Chaudhary/Downloads/Manish-chaudhary-resume%20(1)_compressed%20(1).pdf] 
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
